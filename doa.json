@@ -7,7 +7,129 @@
       "content": "بِاسْمِكَ اَللَّهُمَّ أَمُوْتُ وَأَحْيَا",
       "translate": "Dengan menyebut nama-Mu, Ya Allah, aku mati dan aku hidup",
       "translite": "Bismika Allahumma Amuutu wa ahyaa",
+      "fadhilah": "HR. Bukhari dalam Fathul Bari 11/113 dan Muslim 4/2083",
+      "adab": "<b>Adab Sebelum Tidur<b><ol><li>Jangan tidur larut malam</li><li>Tidak boleh tidur dalam satu selimut dengan orang lain</li><li>Berwudhu sebelum tidur</li><li>Membersihkan tempat tidur dari debu dan kotoran lainnya</li></ol>"
+    },
+    {
+      "title": "Doa Ketika Mimpi Buruk",
+      "icon": "moon-outline",
+      "content": "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّعِبَادِهِ وَمِنْ هَمَزَاتِ الشَّيَاطِيْنِ وَأَنْ يَحْضُرُوْنِ",
+      "translate": "Aku berlindung dengan kalimat Allah yang sempurna dari kemarahan, siksaan-Nya, kejahatan hamba-hamba-Nya, dan dari godaan setan (bisikannya) serta kedatangan mereka kepadaku",
+      "translite": "A'uudzu bikalimatillahit taammati min ghadhabihi wa 'iqaabihi. wasyarri 'ibaadihi, wamin hamazaatisy syayaathiin wa an yahdhuruun",
+      "fadhilah": "HR. Abu Dawud 4/12 dan lihat Shahih Tirmidzi 3/171"
+    },
+    {
+      "title": "Doa Bangun Tidur",
+      "icon": "sunny-outline",
+      "content": "اَلْحَمْدُ لِلَّهِ الَّذِيْ أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُوْرِ",
+      "translate": "Aku berlindung dengan kalimat Allah yang sempurna dari kemarahan, siksaan-Nya, kejahatan hamba-hamba-Nya, dan dari godaan setan (bisikannya) serta kedatangan mereka kepadaku",
+      "translite": "Alhamdulillahilladzii ahyaanaa ba'da maa amaa tanaa wa ilaihin nusyuur",
       "fadhilah": "HR. Bukhari dalam Fathul Bari 11/113 dan Muslim 4/2083"
+    },
+    {
+      "title": "Doa Masuk Kamar Mandi",
+      "icon": "log-in-outline",
+      "content": " بِسْمِ اللَّهِ}، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ}", 
+      "translate": "Dengan menyebut nama Allah, Ya Allah, Sesungguhnya aku berlindung kepada-Mu dari godaan setan laki-laki dan setan perempuan",
+      "translite": "Bismillaah, Allaahumma Innii A’uudzu bika Minal Khubutsi Wal Khabaaits",
+      "fadhilah": "HR. Bukhari 1/45 dan Muslim 1/283, dan tambahan 'Bismillah'. Riwayat Tirmidzi (606) dan Ibnu Majah (297), dan dishahihkan Al-Albani dalam Shahih wa Dhaif Sunan Tirmidzi (606)"
+    },
+    {
+      "title": "Doa Keluar Kamar Mandi",
+      "icon": "log-out-outline",
+      "content": "غُفْرَانَكَ", 
+      "translate": "Ya Allah, hamba memohon ampunan-Mu",
+      "translite": "Ghufraanak",
+      "fadhilah": "HR. Para penulis kitab sunan, kecuali Nasa'i meriwayatkannya dalam 'Amalul Yaumi wal Lailah"
+    },
+    {
+      "title": "Doa Ketika Mengenakan Pakaian",
+      "icon": "shirt-outline",
+      "content": "اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ", 
+      "translate": "Segala puji bagi Allah yang telah memberikan pakaian ini kepadaku sebagai rezeki dari-Nya tanpa daya dan kekuatan dariku",
+      "translite": "ALHAMDU LIL-LAAHIL-LADZII KASAANII HAADZATS TSAUBA WA RAZAQONIIHI MIN GHOIRI HAULIM-MINNII WA LAA QUWWAH",
+      "fadhilah": "HR. Para penulis kitab sunan, kecuali Nasa'i. Lihat kitab Irwa'ul Ghalil 7/47"
+    },
+    {
+      "title": "Doa Ketika Meletakkan Pakaian",
+      "icon": "shirt-outline",
+      "content": "بِسْمِ اللَّهِ", 
+      "translate": "Dengan menyebut nama Allah (aku meletakkan pakaian ini)",
+      "translite": "Bismillaah",
+      "fadhilah": "HR. Tirmidzi 2/505 dan Imam yang lain, lihat Irwa'ul Ghalil, 49 dan Shahihul Jami' 3/203"
+    },
+    {
+      "title": "Doa Sebelum Wudhu",
+      "icon": "water-outline",
+      "content": "بِسْمِ اللَّهِ", 
+      "translate": "Dengan menyebut nama Allah (aku berwudhu)",
+      "translite": "Bismillaah",
+      "fadhilah": "HR. Abu Dawud, Ibnu Majah dan Ahmad, lihat Irwa'ul Ghali 1/122"
+    },
+    {
+      "title": "Doa Setelah Wudhu",
+      "icon": "water-outline",
+      "content": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ اَللَّهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ", 
+      "translate": "Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya. Dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Ya Allah, jadikanlah aku termasuk hamba-hamba-Mu yang rajin bertaubat dan menyucikan diri.",
+      "translite": "ASYHADU ALLAA ILAAHA ILLALLAAHU WAHDAHU LAA SYARIIKALAH WA ASYHADU ANNA MUHAMMADAN ‘ABDUHU WA RASUULUH ALLAAHUMMAJ-’ALNII MINAT TAWWAABIINA  WAJ-’ALNII MINAL MUTATHOH-HIRIINA",
+      "fadhilah": "HR. Muslim 1/209, Tirmidzi 1/78, Bukhari 164 dan Muslim 226"
+    },
+    {
+      "title": "Doa Ketika Mendengar Adzan",
+      "icon": "radio-outline",
+      "content": "لَاحَوْلَ وَلَاقُوَّةَ أِلَّا بِاللَّهِ", 
+      "translate": "Seseorang yang mendengar adzan, hendaklah mengucapkan perkataan yang diucapkan oleh muadzin, kecuali dalam kalimat Hayya'alash shalaah dan Hayya'alal falaah kita hendaknya mengucapkan \"Tidak ada daya dan kekuatan kecuali dengan pertolongan Allah\"",
+      "translite": "Laa Haula walaa quwwata illa billah",
+      "fadhilah": "HR. Bukhari 1/152 dan Muslim 1/288. HR Bukhari 611 dan Muslim 874"
+    },
+    {
+      "title": "Doa Setelah Adzan",
+      "icon": "radio-outline",
+      "content": "اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ القَائِمَةِ، آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًانِ الَّذِي وَعَدْتَهُ", 
+      "translate": "Ya Allah, Tuhan yang memiliki seruan yang sempurna dan salat yang tetap ditegakkan, karuniakanlah kepada Muhammad wasilah dan kemuliaan, serta tempatkanlah ia pada kedudukan yang telah Engkau janjikan.",
+      "translite": "Allahumma Robba haadzihid da'watit taammati washsholaatil qaaimati aati Muhammadanil wasiilata wal fadhilata wab'atshu maqaamam mahmuudanilladzi wa'adtahu",
+      "fadhilah": "HR. Bukhari 1/152"
+    },
+    {
+      "title": "Doa Keluar Rumah",
+      "icon": "log-out-outline",
+      "content": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ", 
+      "translate": "Dengan nama Allah, aku bertawakkal kepada Allah. Tiada daya dan kekuatan kecuali dengan Allah",
+      "translite": "BISMILLAHI TAWAKKALTU ’ALALLAHI LAA HAULA WA LAA QUWWATA ILLAA BILLAAH",
+      "fadhilah": "HR. Abu Dawud 4/325, Tirmidzi 5/490 dan lihat Shahih Tirmidzi 3/151"
+    },
+    {
+      "title": "Doa Masuk Rumah",
+      "icon": "log-in-outline",
+      "content": "بِسْمِ اللَّهِ", 
+      "translate": "Dengan menyebut nama Allah (aku masuk ke rumah)",
+      "translite": "Bismillaah",
+      "fadhilah": "HR. Muslim 2018"
+    },
+    {
+      "title": "Doa Orang yang akan bepergian kepada orang yang ditinggal",
+      "icon": "airplane-outline",
+      "content": "أَسْتَوْدِعُكَ اللَّهَ الَّذِي لَا تَضِيعُ وَدَائِعُهُ", 
+      "translate": "Aku titipkan kamu kepada Allah yang tidak akan tersia-sia apa yang dititipkan kepada-Nya",
+      "translite": "Astaudi'ukallahalladzii laa tadhi'u wadaai'uh ",
+      "fadhilah": "HR. Ibnu Majah 2/943 no:2825, dan dishahihkan oleh Syeikh Al-Albany dalam Shahihul Jami’ no:958"
+    },
+    {
+      "title": "Doa Orang yang ditinggal untuk orang yang musafir",
+      "icon": "home-outline",
+      "content": "زَوَّدَكَ اللَّهُ التَّقْوَى ، وَغَفَرَ ذَنْبَكَ ، وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُمَا كُنْتَ", 
+      "translate": "Semoga Allah membekalimu ketaqwaan , dan mengampuni dosamu , dan memudahkan kebaikan untukmu dimanapun kamu berada",
+      "translite": "Zauwwadakallahuttaqwa wa ghafara dzanbaka wa yassaralakalkhoiro haytsumaa kunta",
+      "fadhilah": "HR. At-Tirmidzy 5/500 no:3444, dan dihasankan Syeikh Al-Albany dalam Shahihul Jami’ no:3579"
+    },
+    {
+      "title": "Doa Naik Kendaraan",
+      "icon": "bicycle-outline",
+      "content": "سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ", 
+      "translate": "Maha Suci Allah yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Tuhan kami.",
+      "translite": "SUBHAANALLADZII SAKH-KHORO LANAA HAADZAA WA MAA KUNNAA LAHU MUQRINIIN WA INNAA ILAA ROBBINAA LAMUN-QOLIBUUN",
+      "fadhilah": "HR. Tirmidzi 3446"
     }
+        
   ]
 }
