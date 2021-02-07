@@ -1,0 +1,4 @@
+@app
+corsapp
+@http
+get /
