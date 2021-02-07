@@ -1,0 +1,13 @@
+{
+  "status": 200,  
+  "result": [
+    {
+      "title": "Doa Sebelum Tidur",
+      "icon": "bed-outline",
+      "content": "بِاسْمِكَ اَللَّهُمَّ أَمُوْتُ وَأَحْيَا",
+      "translate": "Dengan menyebut nama-Mu, Ya Allah, aku mati dan aku hidup",
+      "translite": "Bismika Allahumma Amuutu wa ahyaa",
+      "fadhilah": "HR. Bukhari dalam Fathul Bari 11/113 dan Muslim 4/2083"
+    }
+  ]
+}
