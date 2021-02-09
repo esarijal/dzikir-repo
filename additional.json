@@ -1,0 +1,3 @@
+{
+  "additional": "<ion-button class='btn-home' expand='full' fill='solid' color='light' (click)='traktir()'> <ion-icon name='cafe-outline' slot='start'></ion-icon> Boleh Traktir Kami Kopi </ion-button>"
+}
