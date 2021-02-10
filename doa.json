@@ -102,7 +102,8 @@
       "content": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ", 
       "translate": "Dengan nama Allah, aku bertawakkal kepada Allah. Tiada daya dan kekuatan kecuali dengan Allah",
       "translite": "BISMILLAHI TAWAKKALTU ’ALALLAHI LAA HAULA WA LAA QUWWATA ILLAA BILLAAH",
-      "fadhilah": "HR. Abu Dawud 4/325, Tirmidzi 5/490 dan lihat Shahih Tirmidzi 3/151"
+      "fadhilah": "HR. Abu Dawud 4/325, Tirmidzi 5/490 dan lihat Shahih Tirmidzi 3/151",
+      "adab": "<div class='ion-text-center'><b>Adab Keluar Rumah Bagi Muslimah</b></div><ol> <li>Kenakanlah hijab yang syar’i</li> <li>Hindari memakai wangi-wangian </li> <li>Ketika berjalan, janganlah menggesek-gesekkan sandal/sepatu dengan sengaja dan jangan pula menghentak-hentakkan kaki agar terdengar suara gelang kaki yang dikenakan</li> <li>Jangan pula berlenggak lenggok ketika berjalan sehingga mengundang pandangan lelaki</li> <li>Apabila berjalan bersama saudara ataupun teman sesama wanita sementara di sana ada lelaki, maka tahanlah untuk berbicara, bukan karena suara wanita itu aurat namun karena kekhawatiran lelaki akan terfitnah ketika mendengar suara wanita.</li> <li>Apabila telah menikah, minta izinlah kepada suami ketika keluar rumah</li> <li>Bila jarak perjalanan yang ditempuh adalah jarak safar maka harus didampingi mahram</li> <li>Hindarilah dari berdesak-desakan dengan lelaki</li> <li>Berhiaslah dengan rasa malu</li> <li>Tundukkanlah pandangan mata, jangan melemparkannya ke kiri dan ke kanan kecuali bila ada kebutuhan</li></ol>"
     },
     {
       "title": "Doa Masuk Rumah",
@@ -110,7 +111,8 @@
       "content": "بِسْمِ اللَّهِ", 
       "translate": "Dengan menyebut nama Allah (aku masuk ke rumah)",
       "translite": "Bismillaah",
-      "fadhilah": "HR. Muslim 2018"
+      "fadhilah": "HR. Muslim 2018",
+      "adab": "<div class='ion-text-center'><b>Adab Masuk Rumah</b></div><ol> <li>Tidak mengetuk pintu rumah dengan keras</li> <li>Mendahulukan kaki kanan ketika masuk rumah</li> <li>Mengucapkan salam</li> <li>Tidak masuk rumah orang lain tanpa izin</li></ol>"
     },
     {
       "title": "Doa Orang yang akan bepergian kepada orang yang ditinggal",
@@ -118,7 +120,8 @@
       "content": "أَسْتَوْدِعُكَ اللَّهَ الَّذِي لَا تَضِيعُ وَدَائِعُهُ", 
       "translate": "Aku titipkan kamu kepada Allah yang tidak akan tersia-sia apa yang dititipkan kepada-Nya",
       "translite": "Astaudi'ukallahalladzii laa tadhi'u wadaai'uh ",
-      "fadhilah": "HR. Ibnu Majah 2/943 no:2825, dan dishahihkan oleh Syeikh Al-Albany dalam Shahihul Jami’ no:958"
+      "fadhilah": "HR. Ibnu Majah 2/943 no:2825, dan dishahihkan oleh Syeikh Al-Albany dalam Shahihul Jami’ no:958",
+      "adab": "<div class='ion-text-center'><b>Adab Bepergian</b></div><ol> <li>Hendaknya Tidak Safar Sendirian</li> <li>Mencari Teman Safar yang Baik</li> <li>Boleh Menjamak Salat, Namun Lebih Utama Tidak Dijamak</li> <li>Dianjurkan Mengqasar Salat</li> <li>Wajib Salat di Darat Selama Masih Memungkinkan</li> <li>Membaca Doa Keluar Rumah</li> <li>Berpamitan Kepada Keluarga dan Tetangga</li> <li>Membaca Doa Naik Kendaraan</li> <li>Memperbanyak Doa di Perjalanan</li> <li>Segera Pulang Jika Urusan Sudah Selesai</li> <li>Shalat Dua Rakaat sepulang safar sebelum sampai ke rumah</li></ol>"
     },
     {
       "title": "Doa Orang yang ditinggal untuk orang yang musafir",
@@ -135,6 +138,24 @@
       "translate": "Maha Suci Allah yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Tuhan kami.",
       "translite": "SUBHAANALLADZII SAKH-KHORO LANAA HAADZAA WA MAA KUNNAA LAHU MUQRINIIN WA INNAA ILAA ROBBINAA LAMUN-QOLIBUUN",
       "fadhilah": "HR. Tirmidzi 3446"
+    },
+    {
+      "title": "Doa Sebelum Makan",
+      "icon": "fat-food-outline",
+      "content": "بِسْمِ اللَّهِ", 
+      "translate": "Dengan menyebut nama Allah (aku makan)",
+      "translite": "Bismillaah",
+      "fadhilah": "HR. Abu Dawud 3/347 dan Tirmidzi 4/288",
+      "adab": "<div class='ion-text-center'><b>Adab Makan</b></div><ol> <li>Mencuci tangan sebelum makan</li> <li>Tidak makan dengan posisi tidur atau bersandar</li> <li>Makan dan minum dengan tangan kanan</li> <li>Makan dari makanan yang terdekat dengan tangannya</li> <li>Mengambil makanan yang terjatuh, membersihkannya dan memakannya jika masih bersih</li> <li>Tidak meniup makanan dan minuman</li> <li>Tidak memakan makanan yang masih terlalu panas</li> <li>Tidak mencela makanan yang tidak disukai</li></ol>"
+    },
+    {
+      "title": "Doa Sesudah Makan",
+      "icon": "fat-food-outline",
+      "content": "اَلْحَمْدُ لِلَّهِ الَّذِى أَطْعَمَنِى هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّى وَلاَ قُوَّةٍ", 
+      "translate": "Segala puji bagi Allah yang telah memberiku makanan ini, dan merizkikan kepadaku tanpa daya serta kekuatan dariku",
+      "translite": "Alhamdulillaahilladzii ath’amanii haadzaa wa rozaqoniihi min ghoiri haulin minnii wa laa quwwah",
+      "fadhilah": "HR Para penulis kitab sunan kecuali Nasaa'i",
+      "adab": "<div class='ion-text-center'><b>Adab Sesudah Makan</b></div><ol> <li>Disunahkan membersihkan makanan di jemari tangan dengan menjilatnya</li> <li>Mencuci kedua tangan sesudah makan</li></ol>"
     }
         
   ]
