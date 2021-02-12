@@ -1,4 +1,0 @@
-@app
-corsapp
-@http
-get /

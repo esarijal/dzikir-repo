@@ -156,6 +156,65 @@
       "translite": "Alhamdulillaahilladzii ath’amanii haadzaa wa rozaqoniihi min ghoiri haulin minnii wa laa quwwah",
       "fadhilah": "HR Para penulis kitab sunan kecuali Nasaa'i",
       "adab": "<div class='ion-text-center'><b>Adab Sesudah Makan</b></div><ol> <li>Disunahkan membersihkan makanan di jemari tangan dengan menjilatnya</li> <li>Mencuci kedua tangan sesudah makan</li></ol>"
+    },
+    {
+      "title": "Doa Berbuka Puasa",
+      "icon": "cafe-outline",
+      "content": "ذَهَبَ الضَّمَأُوَابْتَلَّتِ العُرُقُ وَثَبَتَ اﻷَجْرُ إِنْشَاءَاللَّهُ", 
+      "translate": "Rasa haus telah hilang dan urat-urat telah basah, dan pahala telah ditetapkan in syaa Allah",
+      "translite": "Dzahabadh zhoma’u wabtallatil ‘uruqu wa tsabatal ajru in syaa Allah",
+      "fadhilah": "HR. Abu Dawud 2/306",
+      "adab": "<div class='ion-text-center'><b>Adab Berbuka Puasa</b></div><ol> <li>Perbanyaklah Doa</li> <li>Sebelum Makan Membaca Basmalah</li> <li>Memakan kurma dengan bilangan ganjil atau meminum air putih</li> <li>Membaca doa berbuka puasa</li> <li>Tidak berlebih-lebihan dalam berbuka puasa</li></ol>"
+    },
+    {
+      "title": "Doa Ketika Bersin",
+      "icon": "sparkles-outline",
+      "content": "اَلْحَمْدُ لِلَّهِ", 
+      "translate": "Segala Puji Bagi Allah",
+      "translite": "Alhamdulillah",
+      "fadhilah": "HR. Bukhari 7/125",
+      "adab": "<div class='ion-text-center'><b>Adab Bersin dan Menjawabnya</b></div><ol> <li>Bagi yang mendengar orang bersin mengucap hamdalah, balaslah dengan ucapan يَرْحَمُكَ اللَّهُ yang artinya <b>Semoga Allah memberi rahmat kepadamu</b></li> <li>Bila teman atau saudaranya mengucapkan yang demikian di atas, bacalah يَهْدِيْكُمُ اللَّهُ, وَيُصْلِحُ بَالَكُمْ yang artinya <b>Semoga Allah memberi petunjuk kepadamu dan semoga Allah meluruskan/memperbaiki urusanmu</b></li></ol>"
+    },
+    {
+      "title": "Doa Ketika Turun Hujan",
+      "icon": "umbrella-outline",
+      "content": "اللَّهُمَّ صَيِّباً نَافِعًا", 
+      "translate": "Ya Allah, turunkanlah kepada kami hujan yang bermanfaat",
+      "translite": "Allahumma shoyyiban nafi’an",
+      "fadhilah": "HR. Bukhari dalam Fathul Bari 2/518",
+      "adab": "<div class='ion-text-center'><b>Adab Ketika Hujan Turun</b></div><ol> <li>Tidak mencela hujan yang selalu turun</li> <li>Perbanyak berdoa, karena waktu hujan adalah salah satu waktu mustajab untuk berdoa</li> <li>Bersyukur kepada Allah atas karunia hujan yang banyak memberikan manfaat bagi kehidupan di bumi ini</li></ol>"
+    },
+    {
+      "title": "Doa Ketika Mendengar Halilintar",
+      "icon": "thunderstorm-outline",
+      "content": "سُبْحَانَ الَّذِيْ يُسَبِّحُ الرَّعْدُ بِحَمِدِهِ وَالْمَلاَئِكَةُ مِنْ خِيْفَتِهِ", 
+      "translate": "Maha Suci Allah yang mana halilintar itu bertasbih dengan memuji-Nya, begitu juga para malaikat, karena takut kepada-Nya",
+      "translite": "Subhaanalladzi yusabbihur ra’du bihamdihi wal malaaikatu min khiifatihi",
+      "fadhilah": "Al-Muwaththa’ 2/992. Al-Albani berkata: Hadits di atas mauquf yang shahih sanadnya."
+    },
+    {
+      "title": "Doa Apabila Angin Bertiup Kencang",
+      "icon": "leaf-outline",
+      "content": "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ خَيْرَهَا وَأَعُوْذُ بِكَ مِنْ شَرِّهَا", 
+      "translate": "Ya Allah, sesungguhnya aku mohon kepada-Mu kebaikan angin ini, dan aku berlindung kepada-Mu dari kejelekannya",
+      "translite": "Allahumma inni as-aluka khairaha wa a'uudzu bika min syarriha",
+      "fadhilah": "HR. Abu Dawud, 4/326; Ibnu Majah, 2/1228, lihat kitab Shahih Ibnu Majah, 2/305"
+    },
+    {
+      "title": "Doa Ketika Hujan Lebat",
+      "icon": "rainy-outline",
+      "content": "اللَّهُمّ حَوَالَيْنَا وَلَا عَلَيْنَا,اللَّهُمَّ عَلَى الْآكَامِ وَالْجِبَالِ وَالظِّرَابِ وَبُطُونِ الْأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ", 
+      "translate": "Ya Allah, turunkanlah hujan di sekitar kami, bukan untuk merusak kami. Ya Allah, turukanlah hujan ke dataran tinggi, gunung-gunung, bukit-bukit, perut lembah, dan tempat tumbuhnya pepohonan",
+      "translite": "Allahumma haawalaina wa laa ’alaina. Allahumma ’alal aakami wal jibaali, wazh zhiraabi, wa buthunil awdiyati, wa manaabitisy syajari",
+      "fadhilah": "HR. Bukhari 1/224 dan Muslim 2/614"
+    },
+    {
+      "title": "Doa Setelah Turun Hujan",
+      "icon": "partly-sunny-outline",
+      "content": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ", 
+      "translate": "kita diberi hujan karena karunia dan rahmat Allah",
+      "translite": "Muthirna bi fadhlillahi wa rahmatih",
+      "fadhilah": "HR. Bukhari 1/205 dan Muslim 1/83"
     }
         
   ]
