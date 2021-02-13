@@ -136,7 +136,7 @@
       "icon": "bicycle-outline",
       "content": "سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ", 
       "translate": "Maha Suci Allah yang telah menundukkan semua ini bagi kami padahal kami sebelumnya tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Tuhan kami.",
-      "translite": "SUBHAANALLADZII SAKH-KHORO LANAA HAADZAA WA MAA KUNNAA LAHU MUQRINIIN WA INNAA ILAA ROBBINAA LAMUN-QOLIBUUN",
+      "translite": "Subhanalladzii sakhkhoro lanaa hadzaa wa maa kunna lahuu muqriniin, wa inna ilaa robbinaa lamun qoolibuun",
       "fadhilah": "HR. Tirmidzi 3446"
     },
     {
@@ -168,7 +168,7 @@
     },
     {
       "title": "Doa Ketika Bersin",
-      "icon": "sparkles-outline",
+      "icon": "radio-outline",
       "content": "اَلْحَمْدُ لِلَّهِ", 
       "translate": "Segala Puji Bagi Allah",
       "translite": "Alhamdulillah",
@@ -178,7 +178,7 @@
     {
       "title": "Doa Ketika Turun Hujan",
       "icon": "umbrella-outline",
-      "content": "اللَّهُمَّ صَيِّباً نَافِعًا", 
+      "content": "اللَّهُمَّ صَيِّبًا نَافِعًا", 
       "translate": "Ya Allah, turunkanlah kepada kami hujan yang bermanfaat",
       "translite": "Allahumma shoyyiban nafi’an",
       "fadhilah": "HR. Bukhari dalam Fathul Bari 2/518",
@@ -203,7 +203,7 @@
     {
       "title": "Doa Ketika Hujan Lebat",
       "icon": "rainy-outline",
-      "content": "اللَّهُمّ حَوَالَيْنَا وَلَا عَلَيْنَا,اللَّهُمَّ عَلَى الْآكَامِ وَالْجِبَالِ وَالظِّرَابِ وَبُطُونِ الْأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ", 
+      "content": "اللَّهُمّ حَوَالَيْنَا وَلَا عَلَيْنَا,اللَّهُمَّ عَلَى الْآكَامِ وَالْجِبَالِ وَالظِّرَابِ وَبُطُونِ اﻷَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ", 
       "translate": "Ya Allah, turunkanlah hujan di sekitar kami, bukan untuk merusak kami. Ya Allah, turukanlah hujan ke dataran tinggi, gunung-gunung, bukit-bukit, perut lembah, dan tempat tumbuhnya pepohonan",
       "translite": "Allahumma haawalaina wa laa ’alaina. Allahumma ’alal aakami wal jibaali, wazh zhiraabi, wa buthunil awdiyati, wa manaabitisy syajari",
       "fadhilah": "HR. Bukhari 1/224 dan Muslim 2/614"
@@ -212,9 +212,27 @@
       "title": "Doa Setelah Turun Hujan",
       "icon": "partly-sunny-outline",
       "content": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ", 
-      "translate": "kita diberi hujan karena karunia dan rahmat Allah",
+      "translate": "Kita diberi hujan karena karunia dan rahmat Allah",
       "translite": "Muthirna bi fadhlillahi wa rahmatih",
       "fadhilah": "HR. Bukhari 1/205 dan Muslim 1/83"
+    },
+    {
+      "title": "Doa Memohon Ilmu Yang Bermanfaat",
+      "icon": "bulb-outline",
+      "content": "اللَّهُمَّ إنِّي أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا طَيِّبًا، وَعَمَلًا مُتَقَبَّلًا", 
+      "translate": "Ya Allah! Sesungguhnya aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang baik dan amalan yang diterima",
+      "translite": "Allahumma innii as-aluka 'ilman naafi'an wa rizqon thoyyiban wa 'amalan mutaqobbala",
+      "fadhilah": "Musnad Imam Ahmad, 6/322; Sunan Ibnu Majah, no. 925; ",
+      "adab": "<div class='ion-text-center'><b>Adab Penuntut Ilmu</b></div><ol> <li>Mengikhlaskan Niat untuk Allah ‘azza wa jalla</li> <li>Bertujuan untuk Mengangkat Kebodohan Diri Sendiri dan Orang Lain</li> <li>Lebih mengutamakan ilmu agama Islam daripada ilmu umum</li> <li>Bermaksud Membela Syariat</li> <li>Berlapang Dada Dalam Masalah Khilaf</li> <li>Beramal Dengan Ilmu</li> <li>Berdakwah di Jalan Allah</li> <li>Bersikap Bijaksana (Hikmah), Tidak sombong dengan ilmu yang dimiliki</li> <li>Penuntut Ilmu Harus Bersabar Dalam Menuntut Ilmu</li> <li>Menghormati Guru, Ulama dan Memosisikan Mereka Sesuai Kedudukannya</li> <li>Berpegang Teguh Dengan Al Kitab dan As Sunnah</li> <li>Meneliti Kebenaran Berita yang Tersebar dan Bersikap Sabar</li></ol>"
+    },
+    {
+      "title": "Doa Berlindung Dari Ilmu Yang Tidak Bermanfaat",
+      "icon": "warning-outline",
+      "content": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دُعَاءٍ لَا يُسْمَعُ", 
+      "translate": "Ya Allah, aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, dari hati yang tidak khusyu, dari jiwa yang tidak merasa puas, dan dari doa yang tidak didengar (tidak dikabulkan)",
+      "translite": "Allahumma innii a'udzubika min 'ilmin laa yanfa', wa min qolbin laa yakhsya', wa minnafsin laa tasyba', wa min du'aain laa yusma'",
+      "fadhilah": "HR. Abu Dawud no. 1548, An-Nasa’i no. 5536, dan Ibnu Majah no. 3837",
+      "adab": "<div class='ion-text-center'><b>4 Macam Ilmu yang tidak Bermanfaat</b></div><ol> <li>Ilmu yang 100% berbahaya, tidak ada manfaat sama sekali, atau minimal bahaya ilmu tersebut lebih besar dibandingkan manfaatnya (kebaikannya). Misalnya ilmu sihir.</li> <li>Sibuk mempelajari ilmu duniawi (ilmu pengetahuan) yang hukum asalnya adalah mubah, namun kesibukan tersebut menjadikannya lalai dari hal-hal yang bermanfaat untuk kehidupannya</li> <li>Ilmu syar’i (ilmu agama), yaitu ilmu tentang Al-Qur’an dan As-Sunnah, namun tidak diamalkan.</li> <li>Menyibukkan diri dengan ilmu alam atau ilmu modern (seperti biologi, fisika, dan semisalnya) sehingga menyebabkan dirinya cuek dan berpaling dari mempelajari ilmu agama</li></ol><p><i>Disarikan dari penjelasan Syaikh ‘Abdurrahman bin Naashir As-Sa’di -rahimahullahu Ta’ala- di kitab Majmu’ Al-Fawaaid wa Iqtinaashil Awaabid (faidah ke-33, cet. Daar Ibnul Jauzi tahun 1424).</i></p>"
     }
         
   ]
