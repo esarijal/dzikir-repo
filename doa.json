@@ -2,6 +2,63 @@
   "status": 200,  
   "result": [
     {
+      "title": "Doa berlindung dari penyakit menular dan setiap penyakit jelek",
+      "icon": "star-outline",
+      "content": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ وَالْجُنُونِ وَالْجُذَامِ وَمِنْ سَيِّئِ اْلأَسْقَامِ",
+      "translite": "ALLOOHUMMA INNII ‘AUUDZU BIKA MINAL BAROSHI WAL JUNUUNI WAL JUDZAAMI WA MIN SAYYI-IL ASQOOM.",
+      "translate": "Ya Allah, sungguh aku berlindung kepada-Mu dari penyakit belang, gila, lepra, dan dari segala keburukan segala macam penyakit",
+      "fadhilah": "HR. Abu Daud, no. 1554; Ahmad, 3: 192, dari Anas radhiyallahu ‘anhu. Syaikh Al-Albani mengatakan bahwa hadits ini sahih."
+    },
+    {
+      "title": "Doa sapu jagat, meminta kebaikan di dunia dan akhirat",
+      "icon": "star-outline",
+      "content": "رَبَّنَا آَتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآَخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "translite": "ROBBANAA AATINAA FID DUN-YAA HASANAH, WA FIL AAKHIROTI HASANAH, WA QINAA ‘ADZAABAN NAAR.",
+      "translate": "Ya Allah, berikanlah kepada kami kebaikan di dunia, berikan pula kebaikan di akhirat, dan lindungilah kami dari siksa neraka.",
+      "fadhilah": "QS. Al-Baqarah: 201"
+    },
+    {
+      "title": "Doa memohon kemudahan",
+      "icon": "star-outline",
+      "content": "اللَّهُمَّ لاَ سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً وَأَنْتَ تَجْعَلُ الحَزْنَ إِذَا شِئْتَ سَهْلاً",
+      "translite": "ALLOOHUMMA LAA SAHLA ILLAA MAA JA’ALTAHU SAHLAA, WA ANTA TAJ’ALUL HAZNA IDZAA SYI’TA SAHLAA.",
+      "translate": "Ya Allah, tidak ada kemudahan kecuali yang Engk au buat mudah. Engkau yang mampu menjadikan kesedihan (kesulitan) – jika Engkau kehendaki – menjadi mudah.",
+      "fadhilah": "HR. Ibnu Hibban dalam Shahih-nya, 3:255; dari Anas radhiyallahu ‘anhu."
+    },
+    {
+      "title": "Doa agar diperbagus akhir setiap urusan, juga diselamatkan dari kebinasaan dunia dan akhirat",
+      "icon": "star-outline",
+      "content": "اللَّهُمَّ أَحْسِنْ عَاقِبَتَنَا فِي الْأُمُوْرِ كُلِّهَا، وَأجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الآخِرَةِ",
+      "translite": "ALLOOHUMMA AHSIN ‘AAQIBATANAA FIL UMUURI KULLIHAA, WA AJIRNAA MIN KHIZYID DUN-YAA WA ‘ADZAAِBIL AAKHIROH.",
+      "translate": "Ya Allah, baguskanlah setiap akhir urusan kami, dan selamatkanlah dari kebinasaan di dunia dan dari siksa akhirat.",
+      "fadhilah": "HR. Ahmad, 4:181, dari Busr bin Arthah Al-Qurasyi."
+    },
+    {
+      "title": "Doa orang yang sedang berduka",
+      "icon": "star-outline",
+      "content": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلاَ تَكِلْنِى إِلَى نَفْسِى طَرْفَةَ عَيْنٍ وَأَصْلِحْ لِى شَأْنِى كُلَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ",
+      "translite": "ALLOOHUMMA ROHMATAKA ARJUU, FA LAA TAKILNII ILAA NAFSII THORFATA ‘AININ, WA ASH-LIHLII SYA’NII KULLAHU, LAA ILAAHA ILLAA ANTA",
+      "translate": "Ya Allah, dengan rahmat-Mu, aku berharap, janganlah Engkau sandarkan urusanku kepada diriku sendiri walau sekejap mata, perbaikilah segala urusanku seluruhnya, tidak ada sesembahan yang berhak disembah selain Engkau",
+      "fadhilah": "HR. Abu Daud, no. 5090; Ahmad, 5:42. Syaikh Syu’aib Al-Arnauth mengatakan bahwa sanad hadits ini hasan karena mengingat adanya penguat."
+    },
+    {
+      "title": "Doa Agar Terhindar Dari Musibah Yang Dialami orang lain",
+      "icon": "star-outline",
+      "content": "الْحَمْدُ لِلَّهِ الَّذِى عَافَانِى مِمَّا ابْتَلاَكَ بِهِ وَفَضَّلَنِى عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلاً", 
+      "translate": "Segala puji bagi Allah yang telah menyelamatkan aku, dari musibah yang menimpamu dan benar-benar memuliakanku dari makhluk lainnya",
+      "translite": "Alhamdulillahilladzi 'afaani mimmab talaaka bih wa fadholani 'alaa katsiirin mimman kholaqo tafdhiilaa",
+      "fadhilah": "HR. Tirmidzi 3431; Ibnu Majah 3892",
+      "adab": "Rasulullah shollallahu 'alaihi wassallam bersabda: Barang siapa yang melihat orang lain terkena musibah kemudian mengucapkan doa di atas, maka ia akan diselamatkan dari musibah tersebut musibah apa pun itu semasa ia hidup"
+    },
+    {
+      "title": "Doa Berlindung dari penyakit atau bahaya atau makhluk yang mengancam ",
+      "icon": "star-outline",
+      "content": "بِسْمِ اللَّهِ الَّذِى لاَ يَضُرُّ مَعَ اسْمِهِ شَىْءٌ فِى الأَرْضِ وَلاَ فِى السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ", 
+      "translate": "Dengan nama Allah yang bila disebut, segala sesuatu di bumi dan langit tidak akan berbahaya, Dia-lah Yang Maha Mendengar lagi Maha Mengetahui.",
+      "translite": "Bismillahilladzi laa yadhurru ma’asmihi syai-un fil ardhi wa laa fis samaa’ wa huwas samii’ul ‘aliim.",
+      "fadhilah": "HR. At-Tirmidzi no. 3388, Abu Dawud no. 5088,Ibnu Majah no. 3869, al-Hakim 1/514, Dan Ahmad no. 446 dan 474"
+    },
+    {
       "title": "Doa Sebelum Tidur",
       "icon": "bed-outline",
       "content": "بِاسْمِكَ اَللَّهُمَّ أَمُوْتُ وَأَحْيَا",
@@ -249,23 +306,6 @@
       "translate": "Ya Allah, aku berlindung kepada Engkau dari bisikan-bisikan setan, dan aku berlindung (pula) kepada Engkau ya Allah, agar mereka tidak mendekatiku",
       "translite": "Robbi a'udzubika min hamazaatisy syayaatiin wa a'udzubika robbi an yahdhuruun",
       "fadhilah": "QS. Al-Mu'minun 97-98"
-    },
-    {
-      "title": "Doa Agar Terhindar Dari Musibah Yang Dialami orang lain",
-      "icon": "thunderstorm-outline",
-      "content": "الْحَمْدُ لِلَّهِ الَّذِى عَافَانِى مِمَّا ابْتَلاَكَ بِهِ وَفَضَّلَنِى عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلاً", 
-      "translate": "Segala puji bagi Allah yang telah menyelamatkan aku, dari musibah yang menimpamu dan benar-benar memuliakanku dari makhluk lainnya",
-      "translite": "Alhamdulillahilladzi 'afaani mimmab talaaka bih wa fadholani 'alaa katsiirin mimman kholaqo tafdhiilaa",
-      "fadhilah": "HR. Tirmidzi 3431; Ibnu Majah 3892",
-      "adab": "Rasulullah shollallahu 'alaihi wassallam bersabda: Barang siapa yang melihat orang lain terkena musibah kemudian mengucapkan doa di atas, maka ia akan diselamatkan dari musibah tersebut musibah apa pun itu semasa ia hidup"
-    },
-    {
-      "title": "Doa Berlindung dari penyakit atau bahaya atau makhluk yang mengancam ",
-      "icon": "body-outline",
-      "content": "بِسْمِ اللَّهِ الَّذِى لاَ يَضُرُّ مَعَ اسْمِهِ شَىْءٌ فِى الأَرْضِ وَلاَ فِى السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ", 
-      "translate": "Dengan nama Allah yang bila disebut, segala sesuatu di bumi dan langit tidak akan berbahaya, Dia-lah Yang Maha Mendengar lagi Maha Mengetahui.",
-      "translite": "Bismillahilladzi laa yadhurru ma’asmihi syai-un fil ardhi wa laa fis samaa’ wa huwas samii’ul ‘aliim.",
-      "fadhilah": "HR. At-Tirmidzi no. 3388, Abu Dawud no. 5088,Ibnu Majah no. 3869, al-Hakim 1/514, Dan Ahmad no. 446 dan 474"
     }        
   ]
 }
