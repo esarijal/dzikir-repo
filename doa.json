@@ -2,6 +2,54 @@
   "status": 200,  
   "result": [
     {
+      "title": "Doa Permohonan agar Diberi Kekuatan untuk Bersabar & Istiqomah",
+      "icon": "star-outline",
+      "content": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+      "translite": "RABBANAA AFRIGH 'ALAINAA SHOBRON WA TAWAFFANAA MUSLIMIIN",
+      "translate": "Ya Rabb kami, limpahkanlah kesabaran kepada kami. Dan wafatkanlah kami dalam Keadaan berserah diri (kepada-Mu)",
+      "fadhilah": "QS. al-A'raf: 126"
+    },
+    {
+      "title": "Doa Ketika Menghadapi Kesusahan",
+      "icon": "star-outline",
+      "content": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّيْ كُنْتُ مِنَ الظَّالِمِيْنَ",
+      "translite": "LAA ILAAHA ILLAA ANTA SUBHAANAKA INNII KUNTU MINAZH-ZHOOLIMIIN",
+      "translate": "Tidak ada Tuhan yang berhak disembah selain Engkau. Maha suci Engkau, sesungguhnya aku adalah termasuk orang-orang yang zalim",
+      "fadhilah": "QS. al-Anbiya': 87"
+    },
+    {
+      "title": "Doa Memohon Kesembuhan Penyakit",
+      "icon": "star-outline",
+      "content": "اَنِّيْ مَسَّنِيَ الضُّرُّ وَاَ نْتَ اَرْحَمُ الرّٰحِمِيْنَ ۚ",
+      "translite": "ANNII MASSANIYADH-DHURRU WA-ANGTA AR-HAMUR-ROOHIMIIN.",
+      "translate": "\"(Ya Tuhanku), sesungguhnya aku telah ditimpa penyakit, dan Engkau adalah Zat yang paling berbelas kasih dari para makhluk yang memiliki belas kasih.\" [QS. Al-Anbiya 83]",
+      "fadhilah": "Ibnul Qayyim rahimahullah berkata: 'Telah terbukti bahwa orang yang mengucapkan kalimat ini tujuh kali, terlebih lagi disertai dengan mengetahui maknanya, niscaya Allah Taala akan hilangkan penyakitnya.' [Al-Fawaid cet. Dar al-Kutub al-Alamiyyah hal. 201]"
+    },
+    {
+      "title": "Doa Memohon Kesehatan",
+      "icon": "star-outline",
+      "content": "اَللَّهُمَّ عَافِنِيْ فِيْ بَدَنِيْ, اَللَّهُمَّ عَافِنِيْ فِيْ سَمْعِيْ, اَللَّهُمَّ عَافِنِيْ فِيْ بَصَرِيْ, لاَ إِلَـهَ إِلاَّ أَنْتَ, اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ, وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ, لاَ إِلَـهَ إِلاَّ أَنْتَ",
+      "translite": "Allahumma 'aafinii fii badanii, Allahumma 'aafinii fii sam'ii, Allahumma 'aafinii fii bashorii, Laa ilaaha illa anta, Allahumma innii a'uudzubika minal kufri wal faqr, wa a'uudzubika min 'adzaabil qobri, laa ilaaha illa anta",
+      "translate": "\"Ya Allah, berilah keafiatan (keselamatan dari penyakit, dosa, dan azab) pada tubuhku. Ya Allah, berilah keafiatan pada pendengaranku. Ya Allah, berilah keafiatan pada penglihatanku. Tidak ada tuhan yang berhak disembah kecuali Engkau. Ya Allah sesungguhnya aku berlindung kepadaMu dari kekufuran dan kefakiran, dan aku berlindung kepadaMu dari siksa kubur. Tidak ada tuhan yang berhak disembah kecuali Engkau.\"",
+      "fadhilah": "HR. Abu Dawud no. 5090"
+    },
+    {
+      "title": "Doa Ketika Tubuh Mengalami Sakit",
+      "icon": "star-outline",
+      "content": "Pegang bagian tubuh yang sakit lalu membaca. بِسْمِ اللَّهِ (3x) أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ (7x)",
+      "translite": "Bismillah (3x) A'udzu billahi wa qudrotihi min syarri maa ajidu wa uhaadzir (7x)",
+      "translate": "Dengan menyebut nama Allah, dengan menyebut nama Allah, dengan menyebut nama Allah, aku berlindung kepada Allah dan kuasa-Nya dari kejelekan yang aku dapatkan dan aku waspadai ",
+      "fadhilah": "HR. Muslim no. 2202"
+    },
+    {
+      "title": "Doa Yang Mengumpulkan Seluruh Kebaikan Dunia Dan Akhirat",
+      "icon": "star-outline",
+      "content": "اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَعَافِنِي، وَارْزُقْنِي",
+      "translite": "ALLAHUMMAGH FIRLII WARHAM NII WA 'AAFI NII WARZUQ NII",
+      "translate": "Ya Allah, ampunilah hamba, rahmatilah hamba, berilah hamba keselamatan dari segala keburukan, dan berilah hamba rezeki",
+      "fadhilah": "\"Sungguh empat kalimat doa tersebut telah menghimpun seluruh kebaikan dunia dan Akhiratmu.\" [HR. Muslim no. 2697]"
+    },
+    {
       "title": "Doa berlindung dari penyakit menular dan setiap penyakit jelek",
       "icon": "star-outline",
       "content": "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبَرَصِ وَالْجُنُونِ وَالْجُذَامِ وَمِنْ سَيِّئِ اْلأَسْقَامِ",
