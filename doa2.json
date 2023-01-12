@@ -377,6 +377,69 @@
 			"translite": "Robbi a'udzubika min hamazaatisy syayaatiin wa a'udzubika robbi an yahdhuruun",
 			"fadhilah": "QS. Al-Mu'minun 97-98",
 			"adab": ""
+		},
+                {
+			"title": "Doa Pergi ke Masjid",
+			"icon": "aperture-outline",
+			"content": "اللهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَاجْعَلْ فِي سَمْعِي نُورًا، وَاجْعَلْ فِي بَصَرِي نُورًا، وَاجْعَلْ مِنْ خَلْفِي نُورًا، وَمِنْ أَمَامِي نُورًا، وَاجْعَلْ مِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، اللهُمَّ أَعْطِنِي نُورًا",
+			"translate": "Ya Allah, jadikanlahlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.",
+			"translite": "Allaahummaj’al fii qolbii nuuron, wa fii lisaanii nuuron, waj’al fii sam’ii nuuron, waj’al fii bashorii nuuron, waj’al min kholfii nuuron, wa min amaamii nuuron, waj’al min fauqii nuuron, wa min tahtii nuuron, allaahumma a’thinii nuuron.",
+			"fadhilah": "HR. Muslim no. 763 (191)",
+			"adab": "Para ulama mengatakan maksud dari permintaan agar diberikan cahaya pada anggota tubuhnya dan arah yang dituju adalah permintaan untuk diberikan penjelasan tentang yang Haq, meminta ridho-Nya dan meminta agar diberikan petunjuk agar bisa menempuhnya. (lihat: Syarhu As-Suyuthi ‘Alaa Muslim 2/373)"
+		},
+                {
+			"title": "Doa Masuk Masjid 1",
+			"icon": "aperture-outline",
+			"content": "اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
+			"translate": "Ya Allah, bukalah pintu-pintu rahmatMu untukku",
+			"translite": "allaahummaftah lii abwaaba rohmatik.",
+			"fadhilah": "HR. Muslim no. 713",
+			"adab": "Dikhusukan permintaan rahmat ketika memasuki masjid karena orang yang memasuki masjid adalah orang yang mengharapkan akhirat. (lihat: Kasyful Musykil Min Hadits Ash-Shohihain 2/136)"
+		},
+                {
+			"title": "Doa Masuk Masjid 2",
+			"icon": "aperture-outline",
+			"content": "وَالصَّلاَةُ وَالسَّلاَمُ عَلَى رَسُوْلِ اللَّهِ اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
+			"translate": "Semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmatMu untukku.",
+			"translite": "Wassholaatu wassalamu 'ala rosuulillaahi Allaahummaftah lii abwaaba rohmatik.",
+			"fadhilah": "HR. Ibnu Majah no. 773",
+			"adab": ""
+		},
+                {
+			"title": "Doa Masuk Masjid 3",
+			"icon": "aperture-outline",
+			"content": "أَعُوْذُ بِاللَّهِ الْعَظِيْمِ، وَبِوَجْهِهِ الْكَرِيْمِ، وَسُلْطَانِهِ الْقَدِيْمِ، مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+			"translate": "Aku berlindung kepada Allah Yang Maha Agung, dengan wajah-Nya Yang Mulia dan kekuasaan-Nya yang abadi, dari setan yang terkutuk.",
+			"translite": "A’uudzu billaahil ‘azhiim, wa biwajhihil kariim, wa sulthoonihil qodiim, minasy-syaithoonir-rojiim",
+			"fadhilah": "HR. Abu Dawud no. 466",
+			"adab": ""
+		},
+                {
+			"title": "Doa Masuk Masjid 4",
+			"icon": "aperture-outline",
+			"content": "بِسْمِ اللَّهِ وَالصَّلَاةُ عَلَى رَسُولِ اللَّهِ",
+			"translate": "Dengan nama Allah, dan semoga shalawat dan salam tercurahkan kepada Rasulullah.",
+			"translite": "bismillaah, wash-sholaaatu was-salaamu ‘alaa rosuulillaah",
+			"fadhilah": "HR. Ibnu Abu Syaibah no. 3418",
+			"adab": ""
+		},
+                {
+			"title": "Doa Keluar Masjid 1",
+			"icon": "aperture-outline",
+			"content": "اَللَّهُمَّاَ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
+			"translate": "Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu.",
+			"translite": "allaahumma innii as-aluka min fadhlika",
+			"fadhilah": "HR. Muslim no. 713",
+			"adab": "Dikhususkan permintaan keutamaan ketika keluar dari masjid karena orang yang keluar dari masjid biasanya pergi untuk mencari rezeki dunia, dan inilah yang dinamakan dengan فَضْل “keutamaan”. (lihat: Kasyful Musykil Min Hadits Ash-Shohihain 2/136)"
+		},
+                {
+			"title": "Doa Keluar Masjid 2",
+			"icon": "aperture-outline",
+			"content": " بِسْمِ اللَّهِ وَالصَّلاَةُ وَالسَّلاَمُ عَلَى رَسُوْلِ اللَّهِ اَللَّهُمَّ اعْصِمْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+			"translate": "Dengan nama Allah, dan semoga shalawat dan salam tercurahkan kepada Rasulullah. Ya Allah, peliharalah aku dari godaan setan yang terkutuk.",
+			"translite": "bismillaah, wash-sholaaatu was-salaamu ‘alaa rosuulillaah. allaahumma’shimnii minasy-syaithoonir-rojiim",
+			"fadhilah": "HR. Ibnu Majah no. 773",
+			"adab": ""
 		}
 	]
 }
