@@ -378,67 +378,130 @@
 			"fadhilah": "QS. Al-Mu'minun 97-98",
 			"adab": ""
 		},
-                {
+		{
 			"title": "Doa Pergi ke Masjid",
-			"icon": "aperture-outline",
+			"icon": "mosque",
 			"content": "اللهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَاجْعَلْ فِي سَمْعِي نُورًا، وَاجْعَلْ فِي بَصَرِي نُورًا، وَاجْعَلْ مِنْ خَلْفِي نُورًا، وَمِنْ أَمَامِي نُورًا، وَاجْعَلْ مِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، اللهُمَّ أَعْطِنِي نُورًا",
 			"translate": "Ya Allah, jadikanlahlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.",
 			"translite": "Allaahummaj’al fii qolbii nuuron, wa fii lisaanii nuuron, waj’al fii sam’ii nuuron, waj’al fii bashorii nuuron, waj’al min kholfii nuuron, wa min amaamii nuuron, waj’al min fauqii nuuron, wa min tahtii nuuron, allaahumma a’thinii nuuron.",
 			"fadhilah": "HR. Muslim no. 763 (191)",
 			"adab": "Para ulama mengatakan maksud dari permintaan agar diberikan cahaya pada anggota tubuhnya dan arah yang dituju adalah permintaan untuk diberikan penjelasan tentang yang Haq, meminta ridho-Nya dan meminta agar diberikan petunjuk agar bisa menempuhnya. (lihat: Syarhu As-Suyuthi ‘Alaa Muslim 2/373)"
 		},
-                {
+		{
 			"title": "Doa Masuk Masjid 1",
-			"icon": "aperture-outline",
+			"icon": "mosque",
 			"content": "اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
 			"translate": "Ya Allah, bukalah pintu-pintu rahmatMu untukku",
 			"translite": "allaahummaftah lii abwaaba rohmatik.",
 			"fadhilah": "HR. Muslim no. 713",
 			"adab": "Dikhusukan permintaan rahmat ketika memasuki masjid karena orang yang memasuki masjid adalah orang yang mengharapkan akhirat. (lihat: Kasyful Musykil Min Hadits Ash-Shohihain 2/136)"
 		},
-                {
+		{
 			"title": "Doa Masuk Masjid 2",
-			"icon": "aperture-outline",
+			"icon": "mosque",
 			"content": "وَالصَّلاَةُ وَالسَّلاَمُ عَلَى رَسُوْلِ اللَّهِ اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
 			"translate": "Semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmatMu untukku.",
 			"translite": "Wassholaatu wassalamu 'ala rosuulillaahi Allaahummaftah lii abwaaba rohmatik.",
 			"fadhilah": "HR. Ibnu Majah no. 773",
 			"adab": ""
 		},
-                {
+		{
 			"title": "Doa Masuk Masjid 3",
-			"icon": "aperture-outline",
+			"icon": "mosque",
 			"content": "أَعُوْذُ بِاللَّهِ الْعَظِيْمِ، وَبِوَجْهِهِ الْكَرِيْمِ، وَسُلْطَانِهِ الْقَدِيْمِ، مِنَ الشَّيْطَانِ الرَّجِيْمِ",
 			"translate": "Aku berlindung kepada Allah Yang Maha Agung, dengan wajah-Nya Yang Mulia dan kekuasaan-Nya yang abadi, dari setan yang terkutuk.",
 			"translite": "A’uudzu billaahil ‘azhiim, wa biwajhihil kariim, wa sulthoonihil qodiim, minasy-syaithoonir-rojiim",
 			"fadhilah": "HR. Abu Dawud no. 466",
 			"adab": ""
 		},
-                {
+		{
 			"title": "Doa Masuk Masjid 4",
-			"icon": "aperture-outline",
+			"icon": "mosque",
 			"content": "بِسْمِ اللَّهِ وَالصَّلَاةُ عَلَى رَسُولِ اللَّهِ",
 			"translate": "Dengan nama Allah, dan semoga shalawat dan salam tercurahkan kepada Rasulullah.",
 			"translite": "bismillaah, wash-sholaaatu was-salaamu ‘alaa rosuulillaah",
 			"fadhilah": "HR. Ibnu Abu Syaibah no. 3418",
 			"adab": ""
 		},
-                {
+		{
 			"title": "Doa Keluar Masjid 1",
-			"icon": "aperture-outline",
+			"icon": "mosque",
 			"content": "اَللَّهُمَّاَ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
 			"translate": "Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu.",
 			"translite": "allaahumma innii as-aluka min fadhlika",
 			"fadhilah": "HR. Muslim no. 713",
 			"adab": "Dikhususkan permintaan keutamaan ketika keluar dari masjid karena orang yang keluar dari masjid biasanya pergi untuk mencari rezeki dunia, dan inilah yang dinamakan dengan فَضْل “keutamaan”. (lihat: Kasyful Musykil Min Hadits Ash-Shohihain 2/136)"
 		},
-                {
+		{
 			"title": "Doa Keluar Masjid 2",
-			"icon": "aperture-outline",
+			"icon": "mosque",
 			"content": " بِسْمِ اللَّهِ وَالصَّلاَةُ وَالسَّلاَمُ عَلَى رَسُوْلِ اللَّهِ اَللَّهُمَّ اعْصِمْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
 			"translate": "Dengan nama Allah, dan semoga shalawat dan salam tercurahkan kepada Rasulullah. Ya Allah, peliharalah aku dari godaan setan yang terkutuk.",
 			"translite": "bismillaah, wash-sholaaatu was-salaamu ‘alaa rosuulillaah. allaahumma’shimnii minasy-syaithoonir-rojiim",
 			"fadhilah": "HR. Ibnu Majah no. 773",
+			"adab": ""
+		},
+		{
+			"title": "Doa Bila Takut Kezaliman Penguasa 1",
+			"icon": "mosque",
+			"content": "اَللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ، وَرَبَّ الْعَرْشِ الْعَظِيْمِ، كُنْ لِيْ جَارًا مِنْ (فُلاَنٍ بْنِ فُلاَنٍ)، وَأَحْزَابِهِ مِنْ خَلاَئِقِكَ، أَنْ يَفْرُطَ عَلَيَّ أَحَدٌ مِنْهُمْ أَوْ يَطْغَى، عَزَّ جَارُكَ، وَجَلَّ ثَنَاؤُكَ، وَلاَ إِلَـٰهَ إِلاَّ أَنْتَ",
+			"translate": "Ya Allah, Tuhan Penguasa tujuh langit, Tuhan Penguasa ‘Arsy yang agung. Jadilah Engkau pelindung bagiku dari “Fulan bin Fulan” (yaitu nama penguasa tersebut), dan para kelompoknya dari makhlukMu. Jangan ada seorang pun dari mereka menyakitiku atau melampaui batas terhadapku. Sungguh kuat perlindunganMu, dan agunglah pujiMu. Tidak ada sesembahan yang berhak disembah kecuali Engkau",
+			"translite": "Allaahumma robbas-samaawaatis-sab’i, wa robbal ‘arsyil ‘azhiim, kun lii jaaron min (fulaanibni fulaan yaitu sebut nama penguasa tersebut fulan bin fulan), wa ahzaabihi min kholaa-iqika, an yafrutho ‘alayya ahadun minhum au yath-ghoo, ‘azza jaaruka, wa jalla tsanaa-uka, wa laa ilaaha illa anta",
+			"fadhilah": "HR. Al-Bukhari dalam Al-Adabul Mufrad no. 707. Dinyatakan shahih oleh Al-Albani dalam Shahih Al-Adab Al-Mufrad no. 545.",
+			"adab": ""
+		},
+		{
+			"title": "Doa Bila Takut Kezaliman Penguasa 2",
+			"icon": "mosque",
+			"content": "اَللَّهُ أَكْبَرُ، اَللَّهُ أَعَزُّ مِنْ خَلْقِهِ جَمِيْعًا، اَللَّهُ أَعَزُّ مِمَّا أَخَافُ وَأَحْذَرُ، وَأَعُوْذُ بِاللَّهِ الَّذِيْ لاَ إِلَـٰهَ إِلاَّ هُوَ، اَلْمُمْسِكِ السَّمَاوَاتِ السَّبْعِ أَنْ يَقَعْنَ عَلَى اْلأَرْضِ إِلاَّ بِإِذْنِهِ، مِنْ شَرِّ عَبْدِكَ (فُلاَنٍ)، وَجُنُوْدِهِ وَأَتْبَاعِهِ وَأَشْيَاعِهِ، مِنَ الْجِنِّ وَاْلإِنْسِ، اَللَّهُمَّ كُنْ لِيْ جَارًا مِنْ شَرِّهِمْ، وَجَلَّ ثَنَاؤُكَ وَعَزَّ جَارُكَ، وَتَبَارَكَ اسْمُكَ، وَلاَ إِلَـٰهَ غَيْرُكَ",
+			"translate": "Allah Maha Besar. Allah Maha Perkasa dari segala makhlukNya. Allah Maha Perkasa dari apa yang aku takutkan dan khawatirkan. Aku berlindung kepada Allah, yang tidak ada sesembahan yang berhak disembah kecuali Dia, yang menahan tujuh langit agar tidak menjatuhi bumi kecuali dengan izinNya, dari kejahatan hambaMu Fulan, serta para pembantunya, pengikutnya dan pendukungnya, dari jenis jin dan manusia. Ya Allah, jadilah Engkau pelindungku dari kejahatan mereka. Agunglah pujiMu, kuatlah perlindunganMu dan Maha Suci asma-Mu. Tidak ada sesembahan yang berhak disembah kecuali Engkau (3x)",
+			"translite": "Allaahu akbar, allaahu a’azzu min kholqihi jamii’an, allaahu a’azzu mimmaa akhoofu wa ahdzar, wa a’uudzu billaahi-lladzii laa ilaaha illaa huu, al mumsikis-samaawaatis-sab’i an yaqo’na ‘alal ardhi illaa bi-idznih, min syarri ‘abdika fulaan (yaitu sebut namanya), wa junuudihi wa atbaa’ihi wa asy-yaa’ih, minal jinni wal ins, allaahumma kun lii jaaron min syarrihim, wa jalla tsanaa-uka wa ‘azza jaaruka, wa tabaarokasmuka, wa laa ilaaha ghoiruk (3x).",
+			"fadhilah": "HR. Al-Bukhari dalam Al-Adabul Mufrad no. 708. Dinyatakan shahih oleh Al-Albani dalam Shahih Al-Adab Al-Mufrad no. 546.",
+			"adab": ""
+		},
+		{
+			"title": "Doa Memejamkan Mata Jenazah",
+			"icon": "mosque",
+			"content": "اَللَّهُمَّ اغْفِرْ لِفُلاَنٍ وَارْفَعْ دَرَجَتَهُ فِي الْمَهْدِيِّيْنَ، وَاخْلُفْهُ فِيْ عَقِبِهِ فِي الْغَابِرِيْنَ، وَاغْفِرْ لَنَا وَلَهُ يَا رَبَّ الْعَالَمِيْنَ، وَافْسَحْ لَهُ فِيْ قَبْرِهِ وَنَوِّرْ لَهُ فِيْهِ",
+			"translate": "Ya Allah, ampunilah si Fulan (hendaklah menyebut namanya), angkatlah derajatnya bersama orang-orang yang mendapat petunjuk, berilah pengganti bagi orang-orang yang ditinggalkan sesudahnya yang masih hidup. Dan ampunilah kami dan dia, wahai Rabb semesta alam. Lebarkan kuburannya dan berilah cahaya di dalamnya.",
+			"translite": "Allaahummaghfir li fulaan (sebut nama mayatnya), warfa’ darojatahu fiil mahdiyyiin, wakhlufhu fii ‘aqibihi fiil ghoobiriin, waghfir lanaa wa lahu, yaa robbal ‘aalamiin, wafsah lahu fii qobrihi wa nawwir lahu fiihi.",
+			"fadhilah": "H.R. Muslim no. 920. Doa ini diucapkan oleh Rasulullah ketika Abu Salamah radhiallahu ‘anhu meninggal dunia, sedangkan matanya terbuka. Kemudian beliau memejamkan matanya sembari membaca doa ini. (lihat: Faidhul Qadir 2/343)",
+			"adab": ""
+		},
+		{
+			"title": "Doa ketika ta’ziyah (belasungkawa)",
+			"icon": "mosque",
+			"content": "إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَلْتَصْبِرْ وَلْتَحْتَسِبْ",
+			"translate": "Sesungguhnya hak Allah adalah mengambil sesuatu dan memberikan sesuatu. Segala sesuatu yang di sisi-Nya dibatasi dengan ajal yang ditentukan. Oleh karena itu, bersabarlah dan carilah ridha Allah.",
+			"translite": "Inna lillaahi maa akhodza, wa lahu maa a’thoo wa kullu syai-in ‘indahu bi-ajalin musamman, faltashbir wal tahtasib",
+			"fadhilah": "H.R. Bukhari no.5655 dan Muslim no. 928. Jika seseorang sedang bertakziah kepada keluarga jenazah, hendaknya mengucapkan salam lalu mengucapkan doa ini. Sebagaimana dahulu yang pernah diucapkan oleh Rasulullah kepada salah seorang utusan yang datang kepada beliau membawa kabar kematian seseorang.",
+			"adab": ""
+		},
+		{
+			"title": "Doa ketika shalat jenazah",
+			"icon": "mosque",
+			"content": "اَللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ، وَوَسِّعْ مَدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ اْلأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ، وَأَهْلاً خَيْرًا مِنْ أَهْلِهِ، وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ (وَعَذَابِ النَّارِ)",
+			"translate": "Ya Allah, ampunilah dia (mayit) , berilah rahmat kepadanya, selamatkanlah dia (dari beberapa hal yang tidak disukai) , maafkanlah dia dan tempatkanlah di tempat yang mulia, luaskan tempat masuknya, mandikan dia dengan air, salju dan air es. Bersihkan dia dari segala kesalahan, sebagaimana Engkau membersihkan baju yang putih dari kotoran. Gantikanlah rumah yang lebih baik dari rumahnya (di dunia), keluarga (atau istri di Surga) yang lebih baik daripada keluarganya (di dunia), pasangan yang lebih baik daripada pasangannya di dunia, dan masukkan dia ke Surga, jagalah dia dari siksa kubur dan Neraka.”",
+			"translite": "Allaahummaghfir lahu warhamhu wa ‘aafihi wa’fu ‘anhu, wa akrim nuzulahu, wa wassi’ madkholahu, waghsilhu bilmaa-i wats-tsalji wal barod, wa naqqihi minal khothooyaa kamaa naqqoitats-tsaubal abyadho minad-danas, wa abdilhu daaron khoiron min daarihi, wa ahlan khoiron min ahlihi, wa zaujan khoiron min zaujihi, wa adkhilhul jannata, wa a’idzhu min ‘adzaabil qobri (wa ‘adzaabin-naar).",
+			"fadhilah": "H.R. Muslim no. 963",
+			"adab": ""
+		},
+		{
+			"title": "Doa ketika jenazah telah dikuburkan",
+			"icon": "mosque",
+			"content": "اَللَّهُمَّ اغْفِرْ لَهُ اَللَّهُمَّ ثَبِّتْهُ",
+			"translate": "Ya Allah ampunilah dia, Ya Allah teguhkanlah dia (untuk menjawab pertanyaan malaikat).",
+			"translite": "Allaahummaghfir lahu, allaahumma tsabbit-hu.",
+			"fadhilah": "H.R. Abu Dawud no. 3221 dan dishahihkan oleh Al-Albani. Rasulullah apabila selesai memakamkan jenazah, maka beliau berdiri di atasnya (sampingnya) sembari memerintahkan para sahabat untuk memintakan ampun kepada Allah untuk jenazah tersebut dan keteguhan hati di dalam kubur ketika ditanya oleh malaikat.",
+			"adab": ""
+		},
+		{
+			"title": "Doa ziarah kubur",
+			"icon": "mosque",
+			"content": "اَلسَّلَامُ عَلَى أَهْلِ الدِّيَارِ مِنَ الْمُؤْمِنِيْنَ وَالْمُسْلِمِيْنَ، وَيَرْحَمُ اللَّهُ الْمُسْتَقْدِمِيْنَ مِنَّا وَالْمُسْتَأْخِرِيْنَ وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لَلَاحِقُوْنَ",
+			"translate": "Semoga keselamatan atas kalian, wahai penghuni kubur, dari kaum mukminin dan muslimin. Semoga Allah merahmati orang-orang yang mendahului kita dan yang datang belakangan. Sesungguhnya kami insya Allah akan menyusul kalian.",
+			"translite": "As-salaamu ‘alaikum ahlad-diyaari minal mu’miniina wal muslimiin. Wa yarhamullaahul mustaqdimiina minnaa wal musta’khiriin. Wa innaa in syaa-allaahu bikum lalaa hiquun.",
+			"fadhilah": "H.R. Muslim no. 974",
 			"adab": ""
 		}
 	]
