@@ -1,6 +1,15 @@
 {
 	"status": 200,
 	"result": [{
+			"title": "Doa Shahih Setelah Shalat Dhuha",
+			"icon": "star-outline",
+			"content": "اللَّهُمَّ اغْفِرْ لِي، وَتُبْ عَلَيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْمِ",
+			"translite": "ALLOHUMMAGHFIR-LII WA TUB ‘ALAYYA, INNAKA ANTAT TAWWABUR ROHIIM",
+			"translate": "Ya Allah, ampunilah aku dan terimalah taubatku, sesungguhnya Engkau Maha Penerima Taubat lagi Maha Penyayang",
+			"fadhilah": "HR. Bukhari dalam Al-Adab Al-Mufrad, no. 619. Syaikh Al-Albani mengatakan bahwa hadits ini sanadnya shahih.",
+			"adab": "Dibaca sampai 100x"
+		},
+               {
 			"title": "Doa Permohonan agar Diberi Kekuatan untuk Bersabar & Istiqomah",
 			"icon": "star-outline",
 			"content": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
