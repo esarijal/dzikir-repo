@@ -1,15 +1,6 @@
 {
 	"status": 200,
 	"result": [{
-			"title": "Doa Shahih Setelah Shalat Dhuha",
-			"icon": "star-outline",
-			"content": "اللَّهُمَّ اغْفِرْ لِي، وَتُبْ عَلَيَّ، إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيْمِ",
-			"translite": "ALLOHUMMAGHFIR-LII WA TUB ‘ALAYYA, INNAKA ANTAT TAWWABUR ROHIIM",
-			"translate": "Ya Allah, ampunilah aku dan terimalah taubatku, sesungguhnya Engkau Maha Penerima Taubat lagi Maha Penyayang",
-			"fadhilah": "HR. Bukhari dalam Al-Adab Al-Mufrad, no. 619. Syaikh Al-Albani mengatakan bahwa hadits ini sanadnya shahih.",
-			"adab": "Dibaca sampai 100x"
-		},
-               {
 			"title": "Doa Permohonan agar Diberi Kekuatan untuk Bersabar & Istiqomah",
 			"icon": "star-outline",
 			"content": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
@@ -25,6 +16,15 @@
 			"translite": "LAA ILAAHA ILLAA ANTA SUBHAANAKA INNII KUNTU MINAZH-ZHOOLIMIIN",
 			"translate": "Tidak ada Tuhan yang berhak disembah selain Engkau. Maha suci Engkau, sesungguhnya aku adalah termasuk orang-orang yang zalim",
 			"fadhilah": "QS. al-Anbiya': 87",
+			"adab": ""
+		},
+		{
+			"title": "Doa Agar Tidak Malas dan Terbebas dari Lilitan Utang",
+			"icon": "star-outline",
+			"content": "اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْهَرَمِ وَالْبُخْلِ وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
+			"translite": "“Allahumma inni a'udzu bika minal 'ajzi, wal kasali, wal jubni, wal haromi, wal bukhl. Wa a'udzu bika min 'adzabil qobri wa min fitnatil mahyaa wal mamaat.",
+			"translate": "Ya Allah, aku berlindung kepada-Mu dari kelemahan, rasa malas, rasa takut, kejelekan di waktu tua, dan sifat kikir. Dan aku juga berlindung kepada-Mu dari siksa kubur serta bencana kehidupan dan kematian",
+			"fadhilah": "HR. Bukhari no. 6367 dan Muslim no. 2706",
 			"adab": ""
 		},
 		{
