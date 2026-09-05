@@ -11,6 +11,7 @@ from pathlib import Path
 TRANSLATION_KEY = "english_rwwad"
 BASE_URL = "https://quranenc.com/api/v1"
 OUT_PATH = Path("quran/english_rwwad.json")
+META_PATH = Path("quran/english_rwwad.meta.json")
 EXPECTED_SURAHS = 114
 EXPECTED_AYAHS = 6236
 USER_AGENT = "DzikirPagiPetang-Rowwad-Snapshot/1.0 (+https://github.com/esarijal/dzikir-repo)"
@@ -58,17 +59,39 @@ def _rows_for_surah(surah: int):
         raise RuntimeError(f"Unexpected/empty response for surah {surah}")
 
     normalized = []
+    seen_ayahs = set()
     for row in rows:
         if not isinstance(row, dict):
             raise RuntimeError(f"Non-object row in surah {surah}")
-        # Preserve QuranEnc content fields exactly as delivered by the API.
+
+        ayah_raw = row.get("aya", row.get("ayah"))
+        try:
+            ayah = int(ayah_raw)
+        except (TypeError, ValueError):
+            raise RuntimeError(f"Invalid ayah number in surah {surah}: {ayah_raw!r}")
+        if ayah in seen_ayahs:
+            raise RuntimeError(f"Duplicate ayah {surah}:{ayah}")
+        seen_ayahs.add(ayah)
+
+        translation = row.get("translation")
+        if not isinstance(translation, str) or not translation.strip():
+            raise RuntimeError(f"Missing translation for {surah}:{ayah}")
+
+        # Preserve QuranEnc translation and footnotes exactly as delivered.
         normalized.append({
-            "sura": row.get("sura"),
-            "aya": row.get("aya"),
-            "translation": row.get("translation"),
+            "sura": row.get("sura", surah),
+            "aya": ayah_raw,
+            "translation": translation,
             "footnotes": row.get("footnotes"),
         })
     return normalized
+
+
+def _atomic_write(path: Path, payload):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+    os.replace(tmp, path)
 
 
 def main():
@@ -88,28 +111,36 @@ def main():
     if total_ayahs != EXPECTED_AYAHS:
         raise RuntimeError(f"Expected {EXPECTED_AYAHS} ayahs, got {total_ayahs}")
 
+    fetched_at = datetime.now(timezone.utc).isoformat()
+    manifest = {
+        "translation_key": TRANSLATION_KEY,
+        "publisher": "Rowwad Translation Center",
+        "source": "QuranEnc.com",
+        "source_url": "https://quranenc.com/en/browse/english_rwwad",
+        "version": metadata.get("version"),
+        "last_update": metadata.get("last_update"),
+        "title": metadata.get("title"),
+        "description": metadata.get("description"),
+        "fetched_at": fetched_at,
+        "surah_count": EXPECTED_SURAHS,
+        "ayah_count": total_ayahs,
+        "data_file": "english_rwwad.json",
+    }
     payload = {
-        "meta": {
-            "translation_key": TRANSLATION_KEY,
-            "publisher": "Rowwad Translation Center",
-            "source": "QuranEnc.com",
-            "source_url": "https://quranenc.com/en/browse/english_rwwad",
-            "version": metadata.get("version"),
-            "last_update": metadata.get("last_update"),
-            "title": metadata.get("title"),
-            "description": metadata.get("description"),
-            "fetched_at": datetime.now(timezone.utc).isoformat(),
-            "surah_count": EXPECTED_SURAHS,
-            "ayah_count": total_ayahs,
-        },
+        "meta": manifest,
         "surahs": surahs,
     }
 
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    tmp = OUT_PATH.with_suffix(".json.tmp")
-    tmp.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
-    os.replace(tmp, OUT_PATH)
+    _atomic_write(OUT_PATH, payload)
+    _atomic_write(META_PATH, manifest)
+    print(
+        "snapshot metadata: "
+        f"key={TRANSLATION_KEY} version={manifest.get('version')} "
+        f"last_update={manifest.get('last_update')} "
+        f"surahs={EXPECTED_SURAHS} ayahs={total_ayahs}"
+    )
     print(f"wrote {OUT_PATH} ({OUT_PATH.stat().st_size} bytes)")
+    print(f"wrote {META_PATH} ({META_PATH.stat().st_size} bytes)")
 
 
 if __name__ == "__main__":
