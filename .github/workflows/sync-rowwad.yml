@@ -1,0 +1,43 @@
+name: Sync Rowwad Snapshot
+
+on:
+  push:
+    branches:
+      - feature/rowwad-local-bundle
+    paths:
+      - scripts/sync_rowwad.py
+      - .github/workflows/sync-rowwad.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch and validate QuranEnc Rowwad snapshot
+        run: python scripts/sync_rowwad.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quran/english_rwwad.json
+          if git diff --cached --quiet; then
+            echo "No snapshot changes"
+            exit 0
+          fi
+          git commit -m "data: refresh QuranEnc Rowwad snapshot"
+          git push origin HEAD:${{ github.ref_name }}
