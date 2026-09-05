@@ -3,6 +3,7 @@ name: Sync Rowwad Snapshot
 on:
   push:
     branches:
+      - master
       - feature/rowwad-local-bundle
     paths:
       - scripts/sync_rowwad.py
@@ -34,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add quran/english_rwwad.json
+          git add quran/english_rwwad.json quran/english_rwwad.meta.json
           if git diff --cached --quiet; then
             echo "No snapshot changes"
             exit 0
