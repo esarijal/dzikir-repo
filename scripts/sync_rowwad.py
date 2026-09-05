@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Snapshot generator for the app-owned Quran translation mirror.
 import json
 import os
 import time
