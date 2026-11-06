@@ -1,0 +1,50 @@
+name: Sync Faedah Mirror
+
+on:
+  schedule:
+    - cron: '0 20 * * *' # 03.00 WIB
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: faedah-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run tests
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+
+      - name: Fetch, validate and build faedah bundle
+        env:
+          FAEDAH_SHEET_CSV_URL: ${{ secrets.FAEDAH_SHEET_CSV_URL }}
+        run: python scripts/sync_faedah.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add faedah/*.json
+          if git diff --cached --quiet; then
+            echo "No snapshot changes"
+            exit 0
+          fi
+          git commit -m "data: refresh faedah snapshot"
+          git pull --rebase origin "${{ github.ref_name }}"
+          git push origin HEAD:"${{ github.ref_name }}"
