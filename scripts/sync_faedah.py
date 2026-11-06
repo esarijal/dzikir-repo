@@ -16,7 +16,7 @@ META_PATH = Path("faedah/faedah.id.meta.json")
 SCHEMA = 1
 MAX_TEXT = 280
 MIN_UMUM = 30
-ID_RE = re.compile(r"^f\d{4}$")
+ID_RE = re.compile(r"^f[0-9]{4}\Z")
 SEASONS = {"umum", "ramadhan", "10_dzulhijjah", "asyura", "syaban"}
 COLUMNS = {
     "id": "id",
@@ -26,6 +26,16 @@ COLUMNS = {
     "musim": "season",
 }
 USER_AGENT = "DzikirPagiPetang-Faedah-Mirror/1.0 (+https://github.com/esarijal/dzikir-repo)"
+
+
+def _norm(value) -> str:
+    """Trim seperti Dart: strip() Python ditambah U+FEFF (BOM)."""
+    text = str(value)
+    while True:
+        trimmed = text.strip().strip("\ufeff")
+        if trimmed == text:
+            return text
+        text = trimmed
 
 
 def utf16_len(text: str) -> int:
@@ -41,7 +51,7 @@ def parse_csv(raw: bytes) -> list:
         raise ValueError(f"CSV kehilangan kolom: {', '.join(missing)}")
     rows = []
     for rec in reader:
-        row = {dst: (rec.get(src) or "").strip() for src, dst in COLUMNS.items()}
+        row = {dst: _norm(rec.get(src) or "") for src, dst in COLUMNS.items()}
         if not any(row.values()):
             continue  # blank line
         rows.append(row)
@@ -54,12 +64,12 @@ def validate(rows: list) -> list:
     seen = set()
     clean = []
     for n, raw in enumerate(rows, start=1):
-        rid = str(raw.get("id", "")).strip()
+        rid = _norm(raw.get("id", ""))
         label = rid or f"baris {n}"
-        text = str(raw.get("text", "")).strip()
-        author = str(raw.get("author", "")).strip()
-        source = str(raw.get("source", "")).strip()
-        season = str(raw.get("season", "")).strip()
+        text = _norm(raw.get("text", ""))
+        author = _norm(raw.get("author", ""))
+        source = _norm(raw.get("source", ""))
+        season = _norm(raw.get("season", ""))
         if not ID_RE.match(rid):
             errors.append(f'{label}: id "{rid}" tidak berformat fNNNN')
         elif rid in seen:

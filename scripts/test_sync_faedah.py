@@ -89,6 +89,19 @@ class SyncFaedahTest(unittest.TestCase):
         self.assertIn("f0003", msg)
         self.assertIn("f0004", msg)
 
+    def test_unicode_digit_id_rejected(self):
+        rows = make_rows()
+        rows[0]["id"] = "f\u0661\u0662\u0663\u0664"
+        with self.assertRaises(ValueError):
+            sync_faedah.validate(rows)
+
+    def test_bom_only_text_rejected(self):
+        rows = make_rows()
+        rows[0]["text"] = "\ufeff"
+        with self.assertRaises(ValueError) as cm:
+            sync_faedah.validate(rows)
+        self.assertIn("f0001", str(cm.exception))
+
     def test_same_items_keep_version(self):
         bundle, _ = sync_faedah.build(make_rows(), None, NOW)
         later = datetime(2026, 11, 7, 20, 0, 0, tzinfo=timezone.utc)
